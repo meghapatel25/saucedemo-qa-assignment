@@ -138,7 +138,6 @@ saucedemo-qa-assignment/
 │
 ├── tests/
 │   ├── login.spec.js
-│   ├── saucedemo.spec.js
 │   └── api.spec.js
 │
 ├── package.json
